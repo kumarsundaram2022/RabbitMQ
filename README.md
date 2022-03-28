@@ -1,2 +1,2 @@
 # Rabbitmq
-performance measurement of Rabbitmq
+performance measurement of RabbitMQ
