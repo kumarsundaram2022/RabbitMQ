@@ -9,7 +9,7 @@ Prerequisite
   - RabbitMQ/Errlang
   - Software Performance Engineering
   
-Inerested reachout
+Inerested Please Conact
 
 Duraimurgan
 
